@@ -64,11 +64,11 @@ Learning Outcomes
 
 This project demonstrates:
 
-✔ Practical use of DSA concepts in industry scenarios
-✔ Efficient searching, updating, and traversal techniques
-✔ Tree balancing mechanisms
-✔ Range query optimization
-✔ Graph exploration strategies
+Practical use of DSA concepts in industry scenarios
+Efficient searching, updating, and traversal techniques
+Tree balancing mechanisms
+Range query optimization
+Graph exploration strategies
 
 Repository Purpose
 
